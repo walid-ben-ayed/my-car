@@ -10,3 +10,12 @@ It offers a seamless booking experience with detailed maps to simplify vehicle s
 With a responsive interface and modern design, my-car aims to provide an intuitive and efficient rental experience, redefining car rental services.
 
 ![my-car acceuil](capture/1.png)
+
+Car Catalogue:
+![my-car acceuil](capture/2.png)
+
+Carte détaillée
+![my-car acceuil](capture/3.png)
+
+
+
